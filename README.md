@@ -5,6 +5,7 @@
 - What I'm Working On
   
     Data Analysis Projects: Hands-on practice with datasets to uncover insights and create visualizations.
+  
     GitHub Projects: Sharing my progress and learning with small scripts, Jupyter notebooks, and project-based code.
 
 - My Goals
@@ -12,7 +13,7 @@
     Learn and apply key tools: Python, SQL, and popular libraries like Pandas and Matplotlib.
     Start building a portfolio of data projects here on GitHub.
     Connect with and learn from others in the data science and analytics community.
-- 📫 How to reach me ... bellarod.rd@gmail'com
+- 📫 How to reach me ... bellarod.rd@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love music and got a good sense of humor
 
